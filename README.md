@@ -1,0 +1,2 @@
+# legato_qs_e54_cu_cpro_spi
+legato_qs_e54_cu_cpro_spi
